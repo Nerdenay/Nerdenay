@@ -1,7 +1,7 @@
 # Selam! Ben Nebi Erdenay Çubukçu 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+Driven+Full-Stack+Developer;Senior+Computer+Engineering+Student;Deep+Learning+Enthusiast;Backend+Specialist+(.NET+%26+C#)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+Driven+Full-Stack+Developer;Senior+Computer+Engineering+Student;Deep+Learning+Enthusiast;Backend+Specialist+(.NET)" alt="Typing SVG" />
 </div>
 
 ---
