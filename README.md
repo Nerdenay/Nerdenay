@@ -51,8 +51,6 @@ Akademik hayatım boyunca Polonya'da **Gdańsk University of Technology** bünye
 ### 📈 GitHub İstatistikleri
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nerdenay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <br>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nerdenay&theme=tokyonight" />
 </div>
 
