@@ -11,7 +11,7 @@
 
 ### 🚀 Hakkımda
 
-Düzce Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Yazılım dünyasında hem kullanıcı deneyimine odaklanan **Full-Stack** çözümler üretiyor, hem de verinin gücünü kullanarak **Yapay Zeka ve Derin Öğrenme** modelleri geliştiriyorum. 
+Düzce Üniversitesi Bilgisayar Mühendisliği(%100 İngilizce) bölümünden yeni mezun olmuş bir Bilgisayar Mühendisiyim. Yazılım dünyasında hem kullanıcı deneyimine odaklanan **Full-Stack** çözümler üretiyor, hem de verinin gücünü kullanarak **Yapay Zeka ve Derin Öğrenme** modelleri geliştiriyorum. 
 
 Akademik hayatım boyunca Polonya'da **Gdańsk University of Technology** bünyesinde Erasmus deneyimi kazanarak vizyonumu genişlettim. Kurumsal stajlarımda ise Backend mimarileri ve ağ yönetimi üzerine gerçek dünya tecrübeleri edindim. Şu anda Deep Learning mimarileri (CNN, RNN, Transformers) ve machine learning entegrasyonları üzerinde uzmanlaşıyorum.
 
