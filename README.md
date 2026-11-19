@@ -16,6 +16,23 @@ Düzce Üniversitesi Bilgisayar Mühendisliği(%100 İngilizce) bölümünden ye
 Akademik hayatım boyunca Polonya'da **Gdańsk University of Technology** bünyesinde Erasmus deneyimi kazanarak vizyonumu genişlettim. Kurumsal stajlarımda ise Backend mimarileri ve ağ yönetimi üzerine gerçek dünya tecrübeleri edindim. Şu anda Deep Learning mimarileri (CNN, RNN, Transformers) ve machine learning entegrasyonları üzerinde uzmanlaşıyorum.
 
 ---
+### 🚀 Yayındaki Sitelerim ve Uygulamalarım
+
+### 評 Meldres Rates — Anime & Karakter Puanlama Platformu
+
+![Next.js](https://img.shields.io/badge/Next.js_14-111111?style=flat-square&logo=nextdotjs&logoColor=F4F1EA)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=F4F1EA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_(Supabase)-111111?style=flat-square&logo=postgresql&logoColor=F4F1EA)
+![Prisma](https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma&logoColor=F4F1EA)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=F4F1EA)
+![Private Repo](https://img.shields.io/badge/Kaynak_Kod-Private-111111?style=flat-square)
+
+**Modern Japon Manga Dergisi** estetiğiyle tasarlanmış, tam yığın (full-stack) Türkçe anime ve karakter puanlama & Mini-Wiki platformu.
+
+## 👉 [Meldres Rates sitesini canlı dene](https://meldres-rates.vercel.app/) 
+
+---
+
 
 ### 🛠️ Teknik Yetenekler
 
